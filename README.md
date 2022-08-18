@@ -1,3 +1,1 @@
-# hello
-hello demo repo alx
-#hello
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/dammyadewoyin/hello/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/dammyadewoyin/hello/tree/main)
