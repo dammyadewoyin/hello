@@ -38,6 +38,8 @@ jobs:
           command: |
             . venv/bin/activate
             make lint   
-
+            
 workflows:
-    build
+    build:
+        jobs:
+            - build-and-test
